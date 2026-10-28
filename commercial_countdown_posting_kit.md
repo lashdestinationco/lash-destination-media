@@ -26,17 +26,17 @@ https://raw.githubusercontent.com/lashdestinationco/lash-destination-media/main/
 Caption: For every woman who felt like a place of beauty wasn't for her: it's for you. Your lashes. Your way. Your destination. #LashDestination #MeetTheOwner #BookTheBlink #LALashes
 Title: Where beauty meets accessible luxury
 
-2) 5:15 PM: widescreen video (YouTube regular video, Facebook post, Instagram feed post)
+2) 5:30 PM: widescreen video (YouTube regular video, Facebook post, Instagram feed post)
 https://raw.githubusercontent.com/lashdestinationco/lash-destination-media/main/media/bts_commercial_bookblink_169.mp4
 Caption: Here is how the Lash Destination commercial came together. The official commercial premieres Sunday, 11.1 at 9 AM on our YouTube. Book the blink at lashdestination.com. #LashDestination #LashesOnWorldOff #BookTheBlink #LALashes
 YouTube title: Behind the Scenes: The Lash Destination Commercial Shoot
 
-3) 5:30 PM: vertical reel (Instagram Reels, TikTok, Facebook Reels, YouTube Shorts)
+3) 6:00 PM: vertical reel (Instagram Reels, TikTok, Facebook Reels, YouTube Shorts)
 https://raw.githubusercontent.com/lashdestinationco/lash-destination-media/main/media/sting_poweron.mp4
 Caption: Power on. Something big is coming. The official Lash Destination commercial premieres Sunday, 11.1 at 9 AM on our YouTube. Turn on notifications so you don't miss it. #LashDestination #LashesOnWorldOff #BookTheBlink #LALashes
 Title: Power On
 
-4) 5:45 PM: Story (Instagram Story and Facebook Story)
+4) 6:30 PM: Story (Instagram Story and Facebook Story)
 https://raw.githubusercontent.com/lashdestinationco/lash-destination-media/main/media/ld_commercial_hero30_916.jpg
 Add a text sticker: "OFFICIAL COMMERCIAL · SUN 11.1 · 9 AM · YouTube" and a link sticker to the YouTube Premiere.
 ```
